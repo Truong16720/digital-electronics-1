@@ -1,5 +1,4 @@
-# Lab 1: INSERT_YOUR_FIRSTNAME INSERT_YOUR_LASTNAME
-
+# Lab 1: Nhat Truong Nguyen
 ### De Morgan's laws
 
 1. Equations of all three versions of logic function f(c,b,a):
